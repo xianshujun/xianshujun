@@ -17,8 +17,8 @@
  
 	🏫 Software Engineering major at a 211 Chinese University
  
-	🚀Primary language: C++ (3+ years), specializing in performance optimization and low-level programming
+	🚀Primary language: C++/golang (3+ years), specializing in performance optimization and low-level programming
  
-	🎯 2025 Goal: Securing my 2nd tech giant internship (Preparing for ByteDance/Tencent/Meituan)
+	🎯 Working: I'm working for Tencent
  
 📫 Reach me: 2776085452@qq.com
