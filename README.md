@@ -5,11 +5,11 @@
   
   🏫 就读于中国211大学软件工程专业
   
-  🚀 技术栈以 C++ /golang为核心，底层/中间件/b端/c端开发设计
+  🚀 技术栈以golang为核心，中间件/b端/c端开发设计
  
-  📌 曾经在腾讯teg做端开发，agent开发相关
+  📌 曾经在腾讯teg做后端开发，agent开发相关
 
-  📌 目前在讯飞消费者cbg，从事软件工程开发
+  📌 目前在讯飞消费者cbg，从事软件工程开发，很享受当前这份工作
 	
   📫 联系我：2776085452@qq.com
  🇺🇸
@@ -19,7 +19,7 @@
     
   🏫 Undergraduate student majoring in Software Engineering at a Project 211 university in China
 
-    🚀 Core tech stack: C++ / Golang; focused on low-level systems, middleware, and B2B/enterprise application design & development
+    🚀 Core tech stack:  Golang; focused on  middleware, and B2B/enterprise application design & development
 
     📌 Former Backend Developer at Tencent TEG, mainly involved in AI-related development and design
 
